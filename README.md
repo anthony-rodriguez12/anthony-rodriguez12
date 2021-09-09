@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @anthony-rodriguez12
+- 👀 I'm interested in learning more web development, and creating web applications.
+- 🌱 I'm currently learning PHP, and some backend.
